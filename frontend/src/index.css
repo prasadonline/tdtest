@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.paddingTop{
+    padding-top: 100px;
+}
+
+.paddingcenter{
+    place-self: center;
+
+}
+.paddingTopPagination{
+    padding-top: 20px;
+}
